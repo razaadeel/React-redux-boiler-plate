@@ -1,0 +1,25 @@
+body{
+    background-color: #EDEBEB
+}
+
+.Signup, .Signin {
+    text-align: center;
+    margin: auto;
+    width: 40vw;
+}
+
+.todoPaper{
+    text-align: center;
+    padding: 10px 25px;
+    margin: 10px auto;
+    height: 12vh;
+    width: 90%;
+}
+
+.addTodoPaper{
+    text-align: center;
+    margin: 0 auto;
+    padding: 40px;
+    height: 20vh;
+    width: 90%
+}
